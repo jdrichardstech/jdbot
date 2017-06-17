@@ -1,3 +1,8 @@
+
+<a href="https://slack.com/oauth/authorize?scope=incoming-webhook,commands&client_id=194139798400.199459269476"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jdrichardstech/jdbot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
